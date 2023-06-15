@@ -4,5 +4,7 @@ Horison Marketing Media Management is a website that focuses on issues regarding
 
 Through the project assignment, we were directed to change aspects of this site into sematic HTML elements, makesure that the CSS code is organized to follow the flow of HTML, and to add alts for proper accessibility features. 
 
+https://aceiln.github.io/MarketMediaManagement/
+
 ![Images of first half of site](./assets/images/screenshot1.png)
 ![Images of second half](./assets/images/screenshot2.png)
